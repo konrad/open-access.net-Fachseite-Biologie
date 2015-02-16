@@ -296,4 +296,4 @@ kann sie hier aufgeführt werden. Links auf Projekte etc., die im Text
 erwähnt werden, bitte direkt im Text anbringen, nicht separat
 aufführen. -->
 
-Lizenziert unter der Creative Common Namensnennung-Nicht kommerziell 3.0 Deutschland https://creativecommons.org/licenses/by-nc/3.0/de/
+Lizenziert unter der Creative Common Namensnennung 3.0 Deutschland https://creativecommons.org/licenses/by/3.0/de/
