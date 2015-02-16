@@ -294,8 +294,10 @@ nötigen Infrastruktur, Anreize geschaffen werden, die Resultate
 wissenschaftlichen Arbeitens möglichst früh und frei von technischen
 und rechtlichen Barrieren öffentlich zugänglich zu machen.
 
+<!---
 ## (Ggf.) Literatur
-
+-->
+  
 <!-- Falls Literatur verwendet worden ist (bitte sparsam verwenden),
 kann sie hier aufgeführt werden. Links auf Projekte etc., die im Text
 erwähnt werden, bitte direkt im Text anbringen, nicht separat
