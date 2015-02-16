@@ -7,7 +7,7 @@ Access im jeweiligen Fach, Hinweise auf Tendenzen etc.
 
 Eine große und wachsende Zahl an Open-Access-Journalen ist ein
 wichtiger Bestandteil der Publikationslandschaft in der Biologie
-geworden. Neben Verlagen mit reinen Open-Access-Portfolio führen viele
+geworden. Neben Verlagen mit reinem Open-Access-Portfolio führen viele
 weitere Verlage Open-Access-Fachzeitschriften oder bieten
 Hybridmodelle an. In der Nutzung von Preprint-Repositorien hinkt die
 Biologie anderen Disziplinen noch hinterher. Außer den Publikationen in
@@ -32,15 +32,15 @@ Eines der Zugpferde der Open-Access-Bewegung in der Biologie ist der
 Verlag [Public Library of Science](http://www.plos.org/) (PLOS). Mit
 dem 2003 gestarteten Journal [PLOS Biology](http://plosbiology.org/)
 setzte er einen Grundstein für die Verbreitung des
-Open-Access-Gedanken in den Lebenswissenschaften. Neben PLOS Biology
+Open-Access-Gedankens in den Lebenswissenschaften. Neben PLOS Biology
 werden mittlerweile auch weitere, spezialisierte Journale wie zum
 Beispiel [PLOS Computational Biology](http://ploscompbiol.org/) oder
 [PLOS Neglected Tropical Diseases](http://www.plosntds.org/) von ihm
 betrieben. Einer der bekanntesten Vertreter aus dem Hause PLOS ist das
 Journal [PLOS ONE](http://plosone.org/), das in seinen ersten 7 Jahren
-mehr als 100000 Artikel publiziert hat.  Ein wichtiges Merkmal von
-PLOS One ist dass Publikationen ausschließlich auf Basis ihrer
-wissenschaftlichen Validität bewertet werden und nicht auf Grund
+mehr als 100000 Artikel publiziert hat und nach Anzahl der jährlich publizierten Artikel die weltweit größte wissenschaftliche Zeitschrift ist. Ein wichtiges Merkmal von
+PLOS ONE ist, dass Publikationen ausschließlich auf Basis ihrer
+wissenschaftlichen Validität bewertet und nicht auf Grund
 mangelnder Relevanz abgelehnt werden, wie bei vielen anderen Journalen
 üblich. PLOS ONE stellt somit den Prototypen der sogenannten
 Megajournale dar - ein Modell, das mittlerweile von vielen anderen
@@ -55,12 +55,21 @@ Mitbegründer der [Open Access Scholarly Publishers
 Association](http://oaspa.org/) ist. Die [Hindawi Publishing
 Corporation](http://www.hindawi.com/), die ebenfalls zahlreiche
 Journale in den Lebenswissenschaften betreibt, stellte bis 2007 alle
-seine Fachzeitschriften auf Open-Access um. 2012 wurde vom Howard
+ihre Fachzeitschriften auf Open-Access um. 2012 wurde vom Howard
 Hughes Medical Institute, der Max-Planck-Gesellschaft und dem Wellcome
 Trust das Journal [elife](http://elifesciences.org) gegründet. Dieses
 soll durch hohe Selektivität der Publikationen als
 Open-Access-Flaggschiff eine hochqualitative Alternative zu dem
-Dreigestirn Nature, Science und Cell bieten.
+Dreigestirn Nature, Science und Cell bieten. Daneben gibt es auch auf die 
+Lebenswissenschaften spezialisierte Open-Access-Verlage wie 
+[Pensoft Publishing](http://www.pensoft.net/), dessen Zeitschriften stark 
+mit Datenbanken wie [ZooBank](http://zoobank.org/), [IPNI](http://www.ipni.org/) 
+und [GBIF](http://www.gbif.org/) integriert sind und dessen 
+[Biodiversity Data Journal](http://biodiversitydatajournal.com/) komplett XML-basiert ist.
+Auch einige Zeitschriften des auf die Geowissenschaften fokussierten Open-Access-Verlages
+[Copernicus Publications](http://publications.copernicus.org/) decken Teilbereiche der 
+Biologie ab, so zum Beispiel [Biogeosciences](http://www.biogeosciences.net/) and 
+[Fossil Record](http://www.fossil-record.net/).
 
 Ein in der Open-Access-Diskussion häufig aufgeführter Kritikpunkt sind
 die hohen Kosten, die Autoren für Open-Access-Artikel zahlen müssen
@@ -68,7 +77,7 @@ die hohen Kosten, die Autoren für Open-Access-Artikel zahlen müssen
 Biology). Das 2012 gegründete Open-Access-Journal
 [PeerJ](https://peerj.com/) fordert die Branche mit seinem neuen
 Geschäftsmodell und sehr geringen Autorenkosten heraus. Anstelle von
-Zahlungen pro Artikel, wird bei PeerJ ein einmaliger Beitrag verlangt,
+Zahlungen pro Artikel wird bei PeerJ ein einmaliger Beitrag verlangt,
 der zu einer lebenslangen Mitgliedschaft führt. So kann bei einer
 Zahlung von 99 USD ein Artikel pro Autor und Jahr publiziert werden
 (bei 199 USD sind es 2 Artikel pro Jahr, bei 299 USD unbegrenzt
@@ -77,7 +86,7 @@ Autor eine solche Mitgliedschaft besitzen. Im allgemeinen können durch
 dieses Modell die Publikationskosten enorm verringert
 werden. Zahlreiche Organisationen wie die Max-Planck-Gesellschaft
 haben institutionsweite Verträge mit dem Verlag abgeschlossen. PeerJ
-bietet zudem die Möglichkeit des [offenen
+bietet zudem, wie viele Zeitschriften von BioMed Central oder Copernicus auch, die Möglichkeit des [offenen
 Peer-Reviews](https://de.wikipedia.org/wiki/Offenes_Peer-Review)
 an. Bei Zustimmung der Gutachter und Autoren werden hierbei die
 Gutachten öffentlich einsehbar gemacht. Eine Open-Access Zeitschrift,
@@ -118,27 +127,23 @@ eigenen Preprint-Server namens [PeerJ PrePrints
 Die größten Anlaufenstellen für
 [Postprint](https://de.wikipedia.org/wiki/Postprint)-Versionen von
 Publikationen sind [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/)
-und [Europe PubMed Central](http://europepmc.org/).  Die NHI
-[fordert](http://publicaccess.nih.gov/policy.htm), dass alle
-Publikationen aus von ihr geförderten Projekten nach spätestens 12
+und [Europe PubMed Central](http://europepmc.org/). Die NIH
+[fordern](http://publicaccess.nih.gov/policy.htm), dass alle
+Publikationen aus von ihnen geförderten Projekten nach spätestens 12
 Monaten in PubMed Central abgelegt werden. Aus diesem Grund sind bei
 PubMed Central mittlerweile eine große Zahl an Publikationen zu
-finden. Diese müssen nicht unter einer offenen Lizenz stehen aber ein
-reines
-[Open-Access-Subset](http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
-kann bezogen und [durchsucht
-werden](http://www.ncbi.nlm.nih.gov/pmc/?term=open+access%5Bfilter%5D).
+finden. Diese müssen nicht unter einer offenen Lizenz stehen, auch nicht im
+[Open-Access-Subset](http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/),
+das separat bezogen und [durchsucht](http://www.ncbi.nlm.nih.gov/pmc/?term=open+access%5Bfilter%5D) werden kann.
 
 Neben Artikel-Repositorien sind zahlreiche Datenbanken wichtige
 Werkzeuge im Alltag der Forscher in den Biowissenschafen. So bieten
-besonders das [National Center for Biotechnology Information
-](http://www.ncbi.nlm.nih.gov/) (NCBI) wie auch das [European
-Bioinformatics Institute](https://www.ebi.ac.uk/) (EBI) über Webseiten
+besonders das [National Center for Biotechnology Information](http://www.ncbi.nlm.nih.gov/) (NCBI) wie auch das [European Bioinformatics Institute](https://www.ebi.ac.uk/) (EBI) über Webseiten
 und
 [Programmierschnittstellen](https://de.wikipedia.org/wiki/Programmierschnittstelle)
 (API) strukturiert Zugriff auf verschiendene Datenkollektionen, wie
 zum Beispiel von Sequenzen und Strukturen von Biomolekülen wie DNA,
-RNA und Proteinen, Stoffwechselwegen und vielem mehr. Das
+RNA und Proteinen, Stoffwechselwegen und vieles mehr. Das
 [re3data](http://www.re3data.org/) (Registry of Research Data
 Repositories) listet für den [Bereich Biology mehr als 1100
 begutachtete
@@ -160,12 +165,12 @@ einschlägigen Datenbanken und Suchmaschinen? (Welche
 Suchmaschinen/Datenbanken lassen sich nach Open Access filtern?  
 -->
 
-MEDLINE, ist eine Literaturdatenbank, die ursprünglich zur Indizierung
+MEDLINE ist eine Literaturdatenbank, die ursprünglich zur Indizierung
 medizinischer Literatur entwickelt wurde, mittlerweile aber den
 Großteil der Literatur-Metadaten biowissenschaftlicher Journale
 beinhaltet. Die zugehörige Suchmaschine
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) besitzt (leider gut
-versteckte) [Möglichkeiten ausschließlich Open-Access-Artikel zu
+versteckte) [Möglichkeiten, ausschließlich Open-Access-Artikel zu
 listen](http://www.ncbi.nlm.nih.gov/pubmed?term=pubmed%20pmc%20open%20access%20%5Bfilter%5D).
 Auch alternative Suchmaschinen für MEDLINE wie
 [GoPubMed](http://www.gopubmed.org) oder fachübergreifende
@@ -180,7 +185,7 @@ z.B. Verlage, Förderer, Fachgesellschaft(en)? Wer sind diejenigen, die
 OA voran treiben im Fach?-->
 
 Es zeichnet sich ab, dass die großen Geldgeber fachunabhängig
-die Vorteil von Open-Access-Publikationen wie auch von offen
+die Vorteile von Open-Access-Publikationen wie auch von offen
 lizenzierter Forschungsergebnisse und -daten erkennen. Alle großen
 deutschen Forschungsorganisationen wie die Max-Planck-Gesellschaft,
 die Deutsche Forschungsgemeinschaft, die Fraunhofer-Gesellschaft, die
@@ -204,14 +209,14 @@ Resultate öffentlich finanzierter Forschung langfristig und breit
 zugänglich zumachen.
 
 In den biowissenschaftlichen Studiengängen fehlen die Themen "Open
-Access" und "offene Lizenzen" im allgemeinen. Hier müssten die
-Universitäten in der Pflicht sehen, dafür zu sorgen dass Grundlagen
+Access" und "offene Lizenzen" im allgemeinen. Hier müssten sich die
+Universitäten in der Pflicht sehen, dafür zu sorgen, dass Grundlagen
 (etwa die Bedeutung von Nachnutzungsrechten und Creative
 Commons-Lizenzen) angehenden Wissenschaflern ausreichend vermittelt
-werden. Das Unwissen um die verschiedenen Lizenzierungsmodelle führt
-zu Fehlentscheidungen und wird von einigen Verlagshäusern genutzt um
-die Linien zwischen Open-Access und "nur" kostenlosem Zugang i.e. ohne
-die Rechte auf Nachnutzung zu verwischen (sogenanntes "Open-Washing").
+werden. Das Unwissen rund um die verschiedenen Lizenzierungsmodelle führt
+zu Fehlentscheidungen und wird von einigen Verlagshäusern genutzt, um
+die Linien zwischen Open-Access und "nur" kostenlosem Zugang, d.h. ohne
+die Rechte auf Nachnutzung, zu verwischen (sogenanntes "Open-Washing").
 
 ## Open Science
 
@@ -220,18 +225,18 @@ Open-Science-Entwicklungen gibt es? Wie ist der Stand, was sind
 interessante Projekte in den Bereichen: Open Data, Open Source, Open
 Science? -->
 
-Open Access bedeutet die Öffnung der wissenschaftlichen Publikation,
+Open Access bezieht sich im wesentlichen auf die Öffnung der formellen wissenschaftlichen Publikationen,
 was im allgemeinen die letzte Station des Forschungsprozesses
 darstellt. Auf dem Weg dorthin fallen allerdings viele weitere
 Informationen an, die der Öffentlichkeit weitestgehend verborgen
 bleiben.  Dass nur ein Bruchteil der generierten Information
-publiziert wird kann als historischer Artefakt gesehen werden. Vor der
+publiziert wird, kann als historischer Artefakt gesehen werden. Vor der
 Etablierung digitaler Technologien wie dem Internet war
 Datenspeicherung- und Weitergabe viel kostspieliger als heute. Unter
 dem Begriff ["Open
 Science"](https://de.wikipedia.org/wiki/Offene_Wissenschaft)
 versammelt sich in den letzten Jahren eine Bewegung, die versucht, die
-neuen technischen Möglichkeiten zu nutzen um alle Teile des
+neuen technischen Möglichkeiten zu nutzen, um alle Teile des
 Wissenschaftsprozesses öffentlich zugänglich zu machen. Dabei sind
 Nachnutzbarkeit, Transparenz und Reproduzierbarkeit wichtige Ziele,
 die zu qualitativ besserer Forschung und einer effektiveren Nutzung
@@ -241,7 +246,7 @@ graswurzelhaft aus den unterschiedlichen Gemeinschaften entwickeln und
 verschieden Aspekte des Wissenschaftsprozesses angehen. So sollen zum
 Beispiel mehr Forschungsdaten ([Open
 Data](https://de.wikipedia.org/wiki/Open_Data)), Quellcode von
-Programmen ([Open Source](https://de.wikipedia.org/wiki/Open_Source)),
+Programmen ([Open Source](https://de.wikipgedia.org/wiki/Open_Source)),
 Laborjournale ([Open Notebook
 Science](https://en.wikipedia.org/wiki/Open_notebook_science)) wie
 auch die Begutachtung von Manuskripten ([Open Peer
@@ -251,7 +256,7 @@ Resources](https://de.wikipedia.org/wiki/Open_Educational_Resources)),
 die Quantifizierung des Einflusses von Publikationen ([Open
 Metrics](http://irights.info/artikel/open-metrics-jenseits-des-zitatkartells/10447))
 und
-[Fördergeldanträge](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002027)
+[Fördergeldanträge](http://dx.doi.org/10.1371/journal.pbio.1002027)
 publik gemacht werden. Open Science beinhaltet aber auch die Öffnung
 der wissenschaftlichen Tätigkeit für Laien ([Citizen
 Science](https://de.wikipedia.org/wiki/Citizen_Science)). Neben
@@ -260,7 +265,7 @@ Arbeitsgruppe](https://science.okfn.org/) von [Open
 Knowledge](https://okfn.org), dem [Center for Open
 Science](http://centerforopenscience.org/) oder [Mozilla Science
 Labs](http://www.mozillascience.org/) sehen auch einige Journale den
-Bedarf die Transparenz der Forschung zu erhöhen. So fordert zum
+Bedarf, die Transparenz der Forschung zu erhöhen. So fordert zum
 Beispiel [PLOS ONE seit
 2014](http://www.plosone.org/static/policies#sharing), dass alle zu
 einer Studie gehörenden Daten mit der Publikation zugänglich gemacht
@@ -271,17 +276,17 @@ Initiative](http://scicrunch.com/resources), mit deren Hilfe
 Forschungsmaterialien und Methoden eindeutige Kennungen erhalten.  
 
 Es ist deutlich zu erkennen, dass bei weitem noch nicht alle
-technischen Potentiale ausreichend genutzt werden um einen effektiven
+technischen Potentiale ausreichend genutzt werden, um einen effektiven
 Wissensaustausch zu gewährleisten. Diese Lücke zwischen Möglichkeiten
 und tatsächlicher Umsetzung lässt sich durch die unveränderte
 Bewertung von Wissenschaftlern und ihrer Arbeiten bei Stellen- und
-Mittelvergaben begründen. Hierfür wir im allgemeinen nur auf die
-Publikation in Fachzeitschriften und den mit [vielen inhärenten
+Mittelvergaben begründen. Hierfür wird im allgemeinen nur auf die
+formalen Publikationen in Fachzeitschriften und den mit [vielen inhärenten
 Schwächen versehenen Impact
 Factor](https://de.wikipedia.org/wiki/Impact_Factor#Kritik)
-zurückgegriffen. Dies demotiviert Ergebnisse, Daten und Methode
-frühzeitig zu veröffentlichen und verhindert somit eine breitere und
-schneller Nutzung dieser durch andere. An dieser Stelle wäre von
+zurückgegriffen. Diese Praxis reduziert die Motivation, Ergebnisse, Daten und Methoden
+frühzeitig zu veröffentlichen und verhindert somit deren breitere und
+schneller Nutzung durch andere. An dieser Stelle wäre von
 Seiten der großen Forschungsgesellschaften, der biologischen
 Fachgesellschaften wie auch der Universitäten ein Umdenken in der
 Evaluation zu wünschen. Es müssen, neben der Bereitstellung der
@@ -296,4 +301,4 @@ kann sie hier aufgeführt werden. Links auf Projekte etc., die im Text
 erwähnt werden, bitte direkt im Text anbringen, nicht separat
 aufführen. -->
 
-Lizenziert unter der Creative Common Namensnennung-Nicht kommerziell 3.0 Deutschland https://creativecommons.org/licenses/by-nc/3.0/de/
+Lizenziert unter der [Creative Commons Namensnennung 3.0 Lizenz Deutschland] (https://creativecommons.org/licenses/by/3.0/de/).
