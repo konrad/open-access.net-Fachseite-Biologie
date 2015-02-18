@@ -24,7 +24,7 @@ weitere Hinweise.
 
 Das [Directory of Open Access Journals](http://www.doaj.org/) listet
 (Stand Februar 2015) [mehr als 400 Open-Access-Journale im Bereich
-Biolgie](http://doaj.org/search?source={%22query%22:{%22filtered%22:{%22query%22:{%22match_all%22:{}},%22filter%22:{%22bool%22:{%22must%22:%5B{%22term%22:{%22_type%22:%22journal%22}},{%22term%22:{%22index.classification.exact%22:%22Biology%20%28General%29%22}}%5D}}}}}). Auf
+Biologie](http://doaj.org/search?source={%22query%22:{%22filtered%22:{%22query%22:{%22match_all%22:{}},%22filter%22:{%22bool%22:{%22must%22:%5B{%22term%22:{%22_type%22:%22journal%22}},{%22term%22:{%22index.classification.exact%22:%22Biology%20%28General%29%22}}%5D}}}}}). Auf
 Grund dieser Fülle werden im Folgenden nur ausgewählte Vertreter und
 neue Entwicklungen beschrieben.
 
