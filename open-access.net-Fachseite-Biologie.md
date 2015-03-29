@@ -24,7 +24,7 @@ weitere Hinweise.
 
 Das [Directory of Open Access Journals](http://www.doaj.org/) listet
 (Stand Februar 2015) [mehr als 400 Open-Access-Journale im Bereich
-Biolgie](http://doaj.org/search?source={%22query%22:{%22filtered%22:{%22query%22:{%22match_all%22:{}},%22filter%22:{%22bool%22:{%22must%22:%5B{%22term%22:{%22_type%22:%22journal%22}},{%22term%22:{%22index.classification.exact%22:%22Biology%20%28General%29%22}}%5D}}}}}). Auf
+Biologie](http://doaj.org/search?source={%22query%22:{%22filtered%22:{%22query%22:{%22match_all%22:{}},%22filter%22:{%22bool%22:{%22must%22:%5B{%22term%22:{%22_type%22:%22journal%22}},{%22term%22:{%22index.classification.exact%22:%22Biology%20%28General%29%22}}%5D}}}}}). Auf
 Grund dieser Fülle werden im Folgenden nur ausgewählte Vertreter und
 neue Entwicklungen beschrieben.
 
@@ -38,15 +38,17 @@ Beispiel [PLOS Computational Biology](http://ploscompbiol.org/) oder
 [PLOS Neglected Tropical Diseases](http://www.plosntds.org/) von ihm
 betrieben. Einer der bekanntesten Vertreter aus dem Hause PLOS ist das
 Journal [PLOS ONE](http://plosone.org/), das in seinen ersten 7 Jahren
-mehr als 100000 Artikel publiziert hat und nach Anzahl der jährlich publizierten Artikel die weltweit größte wissenschaftliche Zeitschrift ist. Ein wichtiges Merkmal von
-PLOS ONE ist, dass Publikationen ausschließlich auf Basis ihrer
-wissenschaftlichen Validität bewertet und nicht auf Grund
-mangelnder Relevanz abgelehnt werden, wie bei vielen anderen Journalen
-üblich. PLOS ONE stellt somit den Prototypen der sogenannten
-Megajournale dar - ein Modell, das mittlerweile von vielen anderen
-Verlagen adoptiert wurde (e.g. [Scientific
-Reports](http://www.nature.com/srep) der Nature Publishing Group oder
-[Open Biology](http://rsob.royalsocietypublishing.org/) der Royal
+mehr als 100000 Artikel publiziert hat und nach Anzahl der jährlich
+publizierten Artikel die weltweit größte wissenschaftliche Zeitschrift
+ist. Ein wichtiges Merkmal von PLOS ONE ist, dass eingereichte
+Manuskripte ausschließlich auf Basis ihrer wissenschaftlichen
+Validität bewertet und nicht auf Grund mangelnder Relevanz abgelehnt
+werden, wie bei vielen anderen Journalen üblich. PLOS ONE stellt somit
+den Prototypen der sogenannten Megajournale dar - ein Modell, das
+mittlerweile von vielen anderen Verlagen adoptiert wurde
+(e.g. [Scientific Reports](http://www.nature.com/srep) der Nature
+Publishing Group oder [Open
+Biology](http://rsob.royalsocietypublishing.org/) der Royal
 Society). [BioMed Central](http://www.biomedcentral.com/) ist ein
 weiterer Verlag mit Open-Access-Vorreiterrolle, der eine Vielzahl von
 Journalen wie zum Beispiel [BMC
@@ -57,19 +59,22 @@ Corporation](http://www.hindawi.com/), die ebenfalls zahlreiche
 Journale in den Lebenswissenschaften betreibt, stellte bis 2007 alle
 ihre Fachzeitschriften auf Open-Access um. 2012 wurde vom Howard
 Hughes Medical Institute, der Max-Planck-Gesellschaft und dem Wellcome
-Trust das Journal [elife](http://elifesciences.org) gegründet. Dieses
+Trust das Journal [eLife](http://elifesciences.org) gegründet. Dieses
 soll durch hohe Selektivität der Publikationen als
 Open-Access-Flaggschiff eine hochqualitative Alternative zu dem
-Dreigestirn Nature, Science und Cell bieten. Daneben gibt es auch auf die 
-Lebenswissenschaften spezialisierte Open-Access-Verlage wie 
-[Pensoft Publishing](http://www.pensoft.net/), dessen Zeitschriften stark 
-mit Datenbanken wie [ZooBank](http://zoobank.org/), [IPNI](http://www.ipni.org/) 
-und [GBIF](http://www.gbif.org/) integriert sind und dessen 
-[Biodiversity Data Journal](http://biodiversitydatajournal.com/) komplett XML-basiert ist.
-Auch einige Zeitschriften des auf die Geowissenschaften fokussierten Open-Access-Verlages
-[Copernicus Publications](http://publications.copernicus.org/) decken Teilbereiche der 
-Biologie ab, so zum Beispiel [Biogeosciences](http://www.biogeosciences.net/) and 
-[Fossil Record](http://www.fossil-record.net/).
+Dreigestirn Nature, Science und Cell bieten. Daneben gibt es auch auf
+die Lebenswissenschaften spezialisierte Open-Access-Verlage wie
+[Pensoft Publishing](http://www.pensoft.net/), dessen Zeitschriften
+stark mit Datenbanken wie [ZooBank](http://zoobank.org/),
+[IPNI](http://www.ipni.org/) und [GBIF](http://www.gbif.org/)
+integriert sind und dessen [Biodiversity Data
+Journal](http://biodiversitydatajournal.com/) komplett XML-basiert
+ist.  Auch einige Zeitschriften des auf die Geowissenschaften
+fokussierten Open-Access-Verlages [Copernicus
+Publications](http://publications.copernicus.org/) decken Teilbereiche
+der Biologie ab, so zum Beispiel
+[Biogeosciences](http://www.biogeosciences.net/) and [Fossil
+Record](http://www.fossil-record.net/).
 
 Ein in der Open-Access-Diskussion häufig aufgeführter Kritikpunkt sind
 die hohen Kosten, die Autoren für Open-Access-Artikel zahlen müssen
@@ -81,12 +86,13 @@ Zahlungen pro Artikel wird bei PeerJ ein einmaliger Beitrag verlangt,
 der zu einer lebenslangen Mitgliedschaft führt. So kann bei einer
 Zahlung von 99 USD ein Artikel pro Autor und Jahr publiziert werden
 (bei 199 USD sind es 2 Artikel pro Jahr, bei 299 USD unbegrenzt
-viele). Allerdings muss bei Publikationen bis zu 12 Autoren jeder
-Autor eine solche Mitgliedschaft besitzen. Im allgemeinen können durch
-dieses Modell die Publikationskosten enorm verringert
-werden. Zahlreiche Organisationen wie die Max-Planck-Gesellschaft
-haben institutionsweite Verträge mit dem Verlag abgeschlossen. PeerJ
-bietet zudem, wie viele Zeitschriften von BioMed Central oder Copernicus auch, die Möglichkeit des [offenen
+viele). Allerdings muss jeder Autor eines PeerJ-Artikels eine solche
+Mitgliedschaft besitzen. Bei mehr als 12 Autoren, müssen nur 12
+Mitglieder sein. Im allgemeinen können durch dieses Modell die
+Publikationskosten enorm verringert werden. Zahlreiche Organisationen
+wie die Max-Planck-Gesellschaft haben institutionsweite Verträge mit
+dem Verlag abgeschlossen. PeerJ bietet zudem, wie viele Zeitschriften
+von BioMed Central oder Copernicus auch, die Möglichkeit des [offenen
 Peer-Reviews](https://de.wikipedia.org/wiki/Offenes_Peer-Review)
 an. Bei Zustimmung der Gutachter und Autoren werden hierbei die
 Gutachten öffentlich einsehbar gemacht. Eine Open-Access Zeitschrift,
@@ -114,38 +120,44 @@ den Biowissenschaften ist bisher leider noch nicht so verbreitet wie
 in anderen Disziplinen wie zum Beispiel der Physik. Dennoch gibt es
 mittlerweile neben der Veröffentlichung auf Gruppenwebseiten oder
 Universitätsrepositorien einige Möglichkeiten, den [grünen
-Open-Access-Weg](https://de.wikipedia.org/wiki/Open_Access#Gr.C3.BCner_Weg)
+Open-Access-Weg](http://open-access.net/de/allgemeines/was_bedeutet_open_access/open_access_strategien/)
 zu beschreiten. Der von der Cornell-University-Library betriebene
 Preprint-Server [arXiv](http://arxiv.org) besitzt seit einigen Jahren
-den Abschnitt [Quantitative biology](http://arxiv.org/archive/q-bio)
+den Abschnitt [Quantitative Biology](http://arxiv.org/archive/q-bio)
 mit 11 Kategorien. Seit 2013 bietet das Cold Spring Harbor Laboratory
 den speziell auf die Biowissenschaften ausgerichteten Preprint-Server
 [bioRxiv](http://biorxiv.org) an. Des weiteren unterhält PeerJ seinen
 eigenen Preprint-Server namens [PeerJ PrePrints
 ](https://peerj.com/preprints/).
 
-Die größten Anlaufenstellen für
+Die größten Anlaufstellen für
 [Postprint](https://de.wikipedia.org/wiki/Postprint)-Versionen von
 Publikationen sind [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/)
-und [Europe PubMed Central](http://europepmc.org/). Die NIH
-[fordern](http://publicaccess.nih.gov/policy.htm), dass alle
-Publikationen aus von ihnen geförderten Projekten nach spätestens 12
-Monaten in PubMed Central abgelegt werden. Aus diesem Grund sind bei
-PubMed Central mittlerweile eine große Zahl an Publikationen zu
-finden. Diese müssen nicht unter einer offenen Lizenz stehen, auch nicht im
-[Open-Access-Subset](http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/),
-das separat bezogen und [durchsucht](http://www.ncbi.nlm.nih.gov/pmc/?term=open+access%5Bfilter%5D) werden kann.
+und [Europe PubMed Central](http://europepmc.org/). Die
+US-amerikanischen National Institutes of Health (NIH)
+[fordern](http://publicaccess.nih.gov/policy.htm), dass von allen
+Publikationen, die aus NIH geförderten Projekten entspringen, eine
+digitale Version nach spätestens 12 Monaten in PubMed Central
+zugänglich ist. Aus diesem Grund sind bei PubMed Central mittlerweile
+eine große Zahl an Artikeln zu finden. Diese müssen nicht unter einer
+offenen Lizenz stehen, noch müssen sie im
+[Open-Access-Subset](http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
+sein, das separat bezogen und
+[durchsucht](http://www.ncbi.nlm.nih.gov/pmc/?term=open+access%5Bfilter%5D)
+werden kann.
 
 Neben Artikel-Repositorien sind zahlreiche Datenbanken wichtige
 Werkzeuge im Alltag der Forscher in den Biowissenschafen. So bieten
-besonders das [National Center for Biotechnology Information](http://www.ncbi.nlm.nih.gov/) (NCBI) wie auch das [European Bioinformatics Institute](https://www.ebi.ac.uk/) (EBI) über Webseiten
-und
+besonders das [National Center for Biotechnology
+Information](http://www.ncbi.nlm.nih.gov/) (NCBI) wie auch das
+[European Bioinformatics Institute](https://www.ebi.ac.uk/) (EBI) über
+Webseiten und
 [Programmierschnittstellen](https://de.wikipedia.org/wiki/Programmierschnittstelle)
-(API) strukturiert Zugriff auf verschiendene Datenkollektionen, wie
-zum Beispiel von Sequenzen und Strukturen von Biomolekülen wie DNA,
-RNA und Proteinen, Stoffwechselwegen und vieles mehr. Das
+(API) strukturiert Zugriff auf verschiedene Datenkollektionen, wie zum
+Beispiel von Sequenzen und Strukturen von Biomolekülen wie DNA, RNA
+und Proteinen, Stoffwechselwegen und vieles mehr. Das
 [re3data](http://www.re3data.org/) (Registry of Research Data
-Repositories) listet für den [Bereich Biology mehr als 1100
+Repositories) listet für den [Bereich Biologie mehr als 400
 begutachtete
 Repositorien](http://service.re3data.org/search/results/filter?term=&d=25&filter_subjects_active%5Bbiology%5D=Biology)
 (Stand Februar 2015). Neben solchen spezialisierten Repositorien
@@ -184,18 +196,18 @@ Entwicklungen voran oder behindert sie? Wie verhalten sich Akteure,
 z.B. Verlage, Förderer, Fachgesellschaft(en)? Wer sind diejenigen, die
 OA voran treiben im Fach?-->
 
-Es zeichnet sich ab, dass die großen Geldgeber fachunabhängig
-die Vorteile von Open-Access-Publikationen wie auch von offen
-lizenzierter Forschungsergebnisse und -daten erkennen. Alle großen
-deutschen Forschungsorganisationen wie die Max-Planck-Gesellschaft,
-die Deutsche Forschungsgemeinschaft, die Fraunhofer-Gesellschaft, die
+Es zeichnet sich ab, dass die großen Geldgeber fachunabhängig die
+Vorteile von Open-Access-Publikationen wie auch von offen lizenzierter
+Forschungsergebnisse und -daten erkennen. Alle großen deutschen
+Forschungsorganisationen wie die Max-Planck-Gesellschaft, die Deutsche
+Forschungsgemeinschaft, die Fraunhofer-Gesellschaft, die
 Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz und die
 Helmholtz-Gemeinschaft zählen zu den Erstunterzeichnern der [Berliner
 Erklärung über offenen Zugang zu wissenschaftlichem
 Wissen](http://openaccess.mpg.de/Berlin-Declaration). Diese wurde
-zudem von zahlreichen anderen internationalen Forschungsinstitutionen
-und Universitäten signiert. Die DFG hat im November 2014 einen [Appell
-zur Nutzung offener Lizenzen in der
+zudem von zahlreichen anderen Forschungsinstitutionen und
+Universitäten außerhalb Deutschlands signiert. Die DFG hat im November
+2014 einen [Appell zur Nutzung offener Lizenzen in der
 Wissenschaft](http://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_14_68/)
 verfasst. Von Seiten der biologischen Fachgesellschaften in
 Deutschland ist bisher leider vergleichsweise wenig Engagement zu
@@ -203,10 +215,10 @@ erkennen. Andere Gruppierungen sind da schon weiter. So betreibt zum
 Beispiel die [American Society for Microbiology](http://www.asm.org/)
 mit [mBio](http://mbio.asm.org/) ein in der Gemeinschaft angesehenes
 Open-Access-Journal. Auch der Vorstoß der NIH, einen öffentlichen
-Zugang von Publikationen der von ihr geförderten Projekte nach
-maximal 12 Monaten zu verlangen, ist zumindest ein erster Schritt, die
-Resultate öffentlich finanzierter Forschung langfristig und breit
-zugänglich zumachen.
+Zugang von Artikeln der von ihr geförderten Projekte spätestens 12
+Monaten nach Publikation zu verlangen, ist zumindest ein erster
+Schritt, die Resultate öffentlich finanzierter Forschung langfristig
+und breit zugänglich zumachen.
 
 In den biowissenschaftlichen Studiengängen fehlen die Themen "Open
 Access" und "offene Lizenzen" im allgemeinen. Hier müssten sich die
@@ -225,15 +237,15 @@ Open-Science-Entwicklungen gibt es? Wie ist der Stand, was sind
 interessante Projekte in den Bereichen: Open Data, Open Source, Open
 Science? -->
 
-Open Access bezieht sich im wesentlichen auf die Öffnung der formellen wissenschaftlichen Publikationen,
-was im allgemeinen die letzte Station des Forschungsprozesses
-darstellt. Auf dem Weg dorthin fallen allerdings viele weitere
-Informationen an, die der Öffentlichkeit weitestgehend verborgen
-bleiben.  Dass nur ein Bruchteil der generierten Information
-publiziert wird, kann als historischer Artefakt gesehen werden. Vor der
-Etablierung digitaler Technologien wie dem Internet war
-Datenspeicherung- und Weitergabe viel kostspieliger als heute. Unter
-dem Begriff ["Open
+Open Access bezieht sich im wesentlichen auf die Öffnung der formellen
+wissenschaftlichen Publikationen, was im allgemeinen die letzte
+Station des Forschungsprozesses darstellt. Auf dem Weg dorthin fallen
+allerdings viele weitere Informationen an, die der Öffentlichkeit
+weitestgehend verborgen bleiben.  Dass nur ein Bruchteil der
+generierten Information publiziert wird, kann als historischer
+Artefakt gesehen werden. Vor der Etablierung digitaler Technologien
+wie dem Internet war Datenspeicherung- und Weitergabe viel
+kostspieliger als heute. Unter dem Begriff ["Open
 Science"](https://de.wikipedia.org/wiki/Offene_Wissenschaft)
 versammelt sich in den letzten Jahren eine Bewegung, die versucht, die
 neuen technischen Möglichkeiten zu nutzen, um alle Teile des
@@ -246,8 +258,9 @@ graswurzelhaft aus den unterschiedlichen Gemeinschaften entwickeln und
 verschieden Aspekte des Wissenschaftsprozesses angehen. So sollen zum
 Beispiel mehr Forschungsdaten ([Open
 Data](https://de.wikipedia.org/wiki/Open_Data)), Quellcode von
-Programmen ([Open Source](https://de.wikipgedia.org/wiki/Open_Source)),
-Laborjournale ([Open Notebook
+Programmen ([Open
+Source](https://de.wikipgedia.org/wiki/Open_Source)), Laborjournale
+([Open Notebook
 Science](https://en.wikipedia.org/wiki/Open_notebook_science)) wie
 auch die Begutachtung von Manuskripten ([Open Peer
 Review](https://de.wikipedia.org/wiki/Offenes_Peer-Review)),
@@ -273,7 +286,7 @@ werden. [PLOS Biology und PLOS Genetics
 unterstützen](http://blogs.plos.org/biologue/2015/01/29/introducing-research-resource-identification-initiative-plos-biology-plos-genetics/)
 die [Research Resource Identification
 Initiative](http://scicrunch.com/resources), mit deren Hilfe
-Forschungsmaterialien und Methoden eindeutige Kennungen erhalten.  
+Forschungsmaterialien und Methoden eindeutige Kennungen erhalten.
 
 Es ist deutlich zu erkennen, dass bei weitem noch nicht alle
 technischen Potentiale ausreichend genutzt werden, um einen effektiven
@@ -303,4 +316,4 @@ kann sie hier aufgeführt werden. Links auf Projekte etc., die im Text
 erwähnt werden, bitte direkt im Text anbringen, nicht separat
 aufführen. -->
 
-Lizenziert unter der [Creative Commons Namensnennung 3.0 Lizenz Deutschland] (https://creativecommons.org/licenses/by/3.0/de/).
+Lizenziert unter der [Creative Commons Namensnennung 3.0 Lizenz Deutschland](https://creativecommons.org/licenses/by/3.0/de/).
