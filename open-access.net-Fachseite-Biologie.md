@@ -268,10 +268,10 @@ Lehrmaterialien ([Open Education
 Resources](https://de.wikipedia.org/wiki/Open_Educational_Resources)),
 die Quantifizierung des Einflusses von Publikationen ([Open
 Metrics](http://irights.info/artikel/open-metrics-jenseits-des-zitatkartells/10447))
-und
-[Fördergeldanträge](http://dx.doi.org/10.1371/journal.pbio.1002027)
-publik gemacht werden. Open Science beinhaltet aber auch die Öffnung
-der wissenschaftlichen Tätigkeit für Laien ([Citizen
+und [Fördergeldanträge mit ihren
+Gutachten](http://dx.doi.org/10.1371/journal.pbio.1002027) öffentlich
+online zugänglich gemacht werden. Open Science beinhaltet aber auch
+die Öffnung der wissenschaftlichen Tätigkeit für Laien ([Citizen
 Science](https://de.wikipedia.org/wiki/Citizen_Science)). Neben
 Gruppierungen wie der [Open Science
 Arbeitsgruppe](https://science.okfn.org/) von [Open
