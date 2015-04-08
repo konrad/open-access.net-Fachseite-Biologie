@@ -115,7 +115,7 @@ Repositorien (z.B. institutionelle Repositorien, die für das Fach
 einschlägig sind), die wichtig im jeweiligen Fach sind.
 -->
 
-Die Nutzung von [Preprint](https://de.wikipedia.org/wiki/Preprint) in
+Die Nutzung von [Preprints](https://de.wikipedia.org/wiki/Preprint) in
 den Biowissenschaften ist bisher leider noch nicht so verbreitet wie
 in anderen Disziplinen wie zum Beispiel der Physik. Dennoch gibt es
 mittlerweile neben der Veröffentlichung auf Gruppenwebseiten oder
